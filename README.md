@@ -2,6 +2,7 @@
 This Ruby Gem provides a CLI to view the current top 50 board games as per www.boardgames.com.
 
 Installation
+========
 $ gem install worlds-best-restaurants
 Usage
 Type the below and follow the on screen prompts.
